@@ -2,6 +2,7 @@
     margin: 0;
     font-family: "Roboto";    
     box-sizing: border-box;
+    
 }
 .adjust-content {
     padding: 20px 200px 100px;
@@ -79,3 +80,83 @@ a {
     margin-top: 10px;
 }
 
+h2.food-text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    text-align: center;;
+    margin-top: 50px;
+}
+
+.food-images {
+    display: flex;
+
+    
+    margin-top: 50px;
+    justify-self: center
+    
+    
+}
+
+img.food-image {
+    width: 180px;
+    height: 150px;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+.quote-section {
+    background: #efe7eb;
+    padding-bottom: 50px;
+}
+
+.quote-text {
+    color: #1f2937;
+    font-weight: 300px;
+    font-size: 36px;   
+    font-style: italic; 
+    padding: 50px;
+}
+
+span{
+    font-weight: 900;
+    font-style: normal;
+}
+
+.CTA {
+    display: flex;
+    background: #3882f6;
+    color: #f9faf8;
+    justify-content: space-between;
+    margin: 50px 200px;
+    padding: 30px 80px;
+    border-radius: 2px;
+}
+
+h2.CTA {
+    font-size: 24px;
+    font-weight: 300px;
+}
+
+p.CTA {
+    font-size: 18px;
+}
+
+.CTA-signup {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 1px solid #f9faf8;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+footer {
+    background: #1f2937;
+    text-align: center;
+    color: #e5e7eb;
+    padding: 30px 100px;
+}
