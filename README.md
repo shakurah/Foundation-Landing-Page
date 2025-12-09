@@ -78,4 +78,4 @@ Other options
 
 ## Credits
 - Project scaffold and learning objective inspired by The Odin Project.
-- Built by the repository owner.
+- Built by me.
